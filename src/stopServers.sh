@@ -1,0 +1,1 @@
+nohup $JFROG_HOME/artifactory/app/bin/artifactoryctl stop & > &
